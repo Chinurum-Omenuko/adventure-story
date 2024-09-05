@@ -1,0 +1,2 @@
+# Option 2: Betray crew
+you will pretend to be injured and tell your partners, “Go, run, or you’ll also get caught.” Once they leave, you'd meet the authorities waiting for you, knowing you’ve betrayed them for your own escape.
