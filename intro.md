@@ -14,7 +14,7 @@
 
 ---
 
-### [**Option 2: Steal a New Car**](stealCar.md) <br>
+### [**Option 2: Steal a New Car**](stealANewCar.md) <br>
 
 **Risks and Consequences**<br>
 
