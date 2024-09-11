@@ -22,3 +22,12 @@
 * **Delay in escape:** Hotwiring a new car will take time, leaving you vulnerable to being caught.
 * **Keep the diamond, but at a cost:** You’ll hold on to the loot, but the injured crew member may slow you down, risking everyone's safety.
 * **Crew member’s condition worsening:** Their injury might get worse while you try to secure a new vehicle, adding pressure to the team.
+
+### [**Option 3: Betray your crew**](betraycrew.md) <br>
+
+**Risks and Consequences**
+
+* **Risk of betrayal:** Betraying your crew could lead to long-term consequences and potential revenge from former allies.
+* **Gain advantage:** : You could potentially gain control over the stolen diamond and eliminate competition from your crew members.
+* **Moral Dilemna:**: Consider the ethical implications of betraying your own crewmates.
+
