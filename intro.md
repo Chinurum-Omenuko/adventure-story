@@ -30,4 +30,12 @@
 * **Risk of betrayal:** Betraying your crew could lead to long-term consequences and potential revenge from former allies.
 * **Gain advantage:** : You could potentially gain control over the stolen diamond and eliminate competition from your crew members.
 * **Moral Dilemna:**: Consider the ethical implications of betraying your own crewmates.
+  
+### [**Option 4: Just keep driving**](keepdriving.md) <br>
+
+**Risks and Consequences**
+
+* **Risk of running out of fuel:** You could potentially run out of fuel and get apprehended easily or go a bit further and try to lay low.
+* **Facing the unkown:** : You arent sure if theres a safe haven or a spot you can tactically lay low and take the risk of someone seeing you.
+* **Potential for refuel:**: There might be a gas station around the corner but your crew would have to confirm that.
 
