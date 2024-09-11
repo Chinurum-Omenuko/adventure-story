@@ -1,4 +1,4 @@
-# Option 3: Keep driving
+# Option 4: Keep driving
 You grip the steering wheel tightly, your heart racing with every passing mile. The city lights blur together as you push the getaway car to its limits, the engine roaring beneath you. Your crew's anxious faces reflect the tension building inside you.
 
 Alex, still clutching their wounded leg, winces with each jolt of the vehicle. "How much longer?" they ask, their voice laced with fear and exhaustion.
