@@ -12,3 +12,13 @@
 * **Split up and lay low:** Blend in with the crowd and try to evade the police, but risk being caught and arrested.
 * **Injured crew member's fate uncertain:** Will they be able to fend for themselves, or will they become a liability?
 
+---
+
+### [**Option 2: Steal a New Car**](stealANewCar.md) <br>
+
+**Risks and Consequences**<br>
+
+* **Draw attention:** Stealing another car could attract the police and make your escape even more difficult.
+* **Delay in escape:** Hotwiring a new car will take time, leaving you vulnerable to being caught.
+* **Keep the diamond, but at a cost:** You’ll hold on to the loot, but the injured crew member may slow you down, risking everyone's safety.
+* **Crew member’s condition worsening:** Their injury might get worse while you try to secure a new vehicle, adding pressure to the team.
